@@ -83,7 +83,7 @@ def process(playlist):
 
 
 
-log_info('Worker is ready to work!')
+log_info('Worker is ready to work')
 
 while True:
     #try:
